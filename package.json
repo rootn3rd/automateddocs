@@ -1,0 +1,16 @@
+{
+  "name": "automateddocs",
+  "version": "1.0.0",
+  "description": "Sample for testing javascript/typescript documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj chaurasia",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-ts": "~1.9.2",
+    "grunt-typedoc": "^0.2.3"
+  }
+}
